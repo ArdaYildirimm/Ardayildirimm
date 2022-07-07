@@ -6,7 +6,7 @@ Jr. Frontend Developer
 
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [ardaogulcanyildirim@gmail.com](mailto:ardaogulcanyildirim@gmail.com)
-* 🧠  I'm learning HTML, CSS, JavaScript, ReactJS and Node JS
+* 🧠  I'm learning HTML, CSS, JavaScript, ReactJS and NodeJS
 
 ### Skills
 
