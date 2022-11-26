@@ -6,8 +6,8 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/arda-yıldırım-783798244/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/veachisx/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/arda-yıldırım-783798244/" title="LinkedIn Profile"><img width="22" src="images/linkedin.png"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/veachisx/" title="Instagram Profile"><img width="22" src="images/instagram.png"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -28,11 +28,11 @@
 <h2 align="center">🔥 Languages 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="NodeJS" height="25" src="images/nodejs.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.png"></code>
+  <code><img title="HTML5" height="25" src="images/html5.png"></code>
+  <code><img title="CSS" height="25" src="images/css.png"></code>
+  <code><img title="NodeJS" height="25" src="images/nodejs.png"></code>
+  <code><img title="React" height="25" src="images/react-original.png"></code>
 </p>
 <hr>
 
