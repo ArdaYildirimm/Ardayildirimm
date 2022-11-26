@@ -14,13 +14,13 @@
   Hi, I'm Arda YILDIRIM, & Frontend Developer from Turkey
   <br>
   <br>
-  🌍  I'm based in İstanbul
+  * 🌍  I'm based in İstanbul
   <br>
-  ✉️  You can contact me at [ardaogulcanyildirim@gmail.com](mailto:ardaogulcanyildirim@gmail.com)
+  * ✉️  You can contact me at [ardaogulcanyildirim@gmail.com](mailto:ardaogulcanyildirim@gmail.com)
   <br>
-  🧠  I'm learning HTML, CSS, JavaScript, ReactJS and NodeJS
+  * 🧠  I'm learning HTML, CSS, JavaScript, ReactJS and NodeJS
   <br>
-  💻 I love writing code and learn anythings about it
+  * 💻 I love writing code and learn anythings about it
   <br>
 </p>
 
