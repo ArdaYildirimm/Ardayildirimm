@@ -1,8 +1,4 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;My+names+Arda+YILDIRIM....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F71F&width=435&lines=My+name+is+Arda+YILDIRIM." alt="Typing SVG" /></a>
 
 
 Jr. Frontend Developer
