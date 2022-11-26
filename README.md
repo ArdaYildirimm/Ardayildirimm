@@ -25,7 +25,7 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages 🔥</h2>
+<h2 align="center">🧠 Languages 🧠</h2>
 <br>
 <p align="center">
   <code><img title="Javascript" height="25" src="images/javascript.png"></code>
@@ -37,7 +37,7 @@
 </p>
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">💪 Stats 💪</h2>
 <br>
 <p align=center>
   <div align=center>
