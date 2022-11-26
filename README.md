@@ -32,7 +32,7 @@
   <code><img title="HTML5" height="25" src="images/html5.png"></code>
   <code><img title="CSS" height="25" src="images/css.png"></code>
   <code><img title="NodeJS" height="25" src="images/nodejs.png"></code>
-  <code><img title="React" height="25" src="images/react-original.png"></code>
+  <code><img title="React" height="25" src="images/react.png"></code>
 </p>
 <hr>
 
