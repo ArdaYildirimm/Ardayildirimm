@@ -33,6 +33,7 @@
   <code><img title="CSS" height="25" src="images/css.png"></code>
   <code><img title="NodeJS" height="25" src="images/nodejs.png"></code>
   <code><img title="React" height="25" src="images/react.png"></code>
+  <code><img title="Arduino" height="25" src="images/arduino.png"></code>
 </p>
 <hr>
 
