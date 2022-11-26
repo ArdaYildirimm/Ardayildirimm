@@ -16,7 +16,7 @@
   <br>
   🌍  I'm based in İstanbul
   <br>
-  ✉️  You can contact me at ardaogulcanyildirim@gmail.com
+  ✉️  You can contact me at [ardaogulcanyildirim@gmail.com](mailto:ardaogulcanyildirim@gmail.com)
   <br>
   🧠  I'm learning HTML, CSS, JavaScript, ReactJS and NodeJS
   <br>
