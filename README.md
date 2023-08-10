@@ -1,5 +1,5 @@
 # ❓ About Me:
-🌍  I'm based in İstanbul<br>✉️  You can contact me at ardaogulcanyildirim@gmail.com<br>🧠  I'm learning HTML, CSS, JavaScript, ReactJS and NodeJS
+🌍  I'm based in İstanbul<br>✉️  You can contact me at ardaogulcanyildirim@gmail.com<br>🧠  I'm learning HTML, CSS, JavaScript, ReactJS, NodeJS and Python
 
 
 ## 🌐 Socials:
