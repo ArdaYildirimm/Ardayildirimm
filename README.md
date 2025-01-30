@@ -205,15 +205,5 @@
 <!--END_SECTION:waka-->
 
 <p align="center">
-	<a href="https://stackoverflow.com/users/29424880/veachis?tab=profile">
-		<picture>
-			<source media="(prefers-color-scheme: dark)" srcset="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12368797&fill=0D1117&textfill=ffffff">
-			<source media="(prefers-color-scheme: light)" srcset="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12368797&fill=0D1117&textfill=ffffff">
-			<img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12368797&fill=0D1117&textfill=ffffff" alt="StackOverflow" />
-		</picture>
-	</a>
-</p>
-
-<p align="center">
 	<img src="https://komarev.com/ghpvc/?username=veachis&color=fb760b&label=Visitors" alt="js" />
 </p>
