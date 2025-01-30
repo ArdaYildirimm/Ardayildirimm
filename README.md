@@ -4,12 +4,12 @@
   </a>
 </p>
 
-<h1 align="center">William Brochensque Júnior</h1>
+<h1 align="center">Arda Yildirim</h1>
 
-<h5 align="center">Freelance Fullstack Developer, Cyber Security enthusiast</h5>
+<h5 align="center">Freelance Game Developer, Software</h5>
 
 <p align="center">
-	<a href="https://gist.github.com/willnaoosmith">
+	<a href="https://gist.github.com/veachis">
 		<img src="https://img.shields.io/badge/-Gists-000?style=for-the-badge&logo=Github&logoColor=white" />
 	</a>
 	<a href="https://stackoverflow.com/users/12368797/william-brochensque-junior?tab=profile">
@@ -215,5 +215,5 @@
 </p>
 
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=willnaoosmith&color=fb760b&label=Visitors" alt="js" />
+	<img src="https://komarev.com/ghpvc/?username=veachis&color=fb760b&label=Visitors" alt="js" />
 </p>
