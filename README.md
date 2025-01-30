@@ -109,7 +109,6 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The first video game ever created was 'Tennis for Two' in 1958.",
       "CoolAdviceOfTheDay": "Great games are not just coded, they are felt.",
       "DadJokeOfTheDay": "Why did the game developer go broke? Because he used up all his cache!",
       "IsTodayChristmas?": "Not yet",
