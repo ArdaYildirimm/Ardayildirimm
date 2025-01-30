@@ -6,8 +6,8 @@
 
 <h1 align="center">Hi, I'm <a href="[https://www.instagram.com/veachisx/]">veachis</a>!</h1>
 <p align="center">
-  <a href="[https://yuna0x0.com](https://www.instagram.com/veachisx/)">
-    <img src="https://yuna0x0.com/88x31.webp" alt="yuna0x0">
+  <a href="[https://www.instagram.com/veachisx/]">
+    <img src="" alt="veachis">
   </a>
 </p>
 <h3 align="center">Welcome to my GitHub profile :3</h3>
