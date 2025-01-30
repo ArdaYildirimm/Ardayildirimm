@@ -26,19 +26,9 @@
 
 <p align="center">
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white">
-	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white">
-	<img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="flask" />
-</picture>
-<picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</picture>
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white">
-	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white">
-	<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </picture>
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -56,39 +46,19 @@
 	<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </picture>
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/trello-0079BF?style=for-the-badge&logo=trello&logoColor=white">
-	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/trello-0079BF?style=for-the-badge&logo=trello&logoColor=white">
-	<img src="https://img.shields.io/badge/trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
-</picture>
-<picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS-3498DB?&style=for-the-badge&logo=css3&logoColor=white">
 	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS-3498DB?&style=for-the-badge&logo=css3&logoColor=white">
 	<img src="https://img.shields.io/badge/CSS-3498DB?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 </picture>
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?style=for-the-badge&message=Metabase&color=509EE3&logo=Metabase&logoColor=FFFFFF&label=">
-	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?style=for-the-badge&message=Metabase&color=509EE3&logo=Metabase&logoColor=FFFFFF&label=">
-	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Metabase&color=509EE3&logo=Metabase&logoColor=FFFFFF&label=" alt="Metabase" />
-</picture>
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
-	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
-	<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap%20Business%20One&logoColor=white" alt="SAP"/>
+	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Unity-00000F?style=for-the-badge&logo=unity&logoColor=white">
+	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Unity-00000F?style=for-the-badge&logo=unity&logoColor=white">
+	<img src="https://img.shields.io/badge/Unity-00000F?style=for-the-badge&logo=unity%20Business%20One&logoColor=white" alt="unity"/>
 </picture>
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 	<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-</picture>
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/open_source_initiative-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white">
-	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/open_source_initiative-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white">
-	<img src="https://img.shields.io/badge/open_source_initiative-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="Open Source Iniciative" />
-</picture>
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-	<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
 </picture>
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
@@ -106,11 +76,6 @@
 	<img src="https://img.shields.io/badge/Linux%20❤️-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </picture>
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
-	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
-	<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</picture>
-<picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
@@ -119,11 +84,6 @@
 	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GitHub" />
-</picture>
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-	<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
 </picture>
 </p>
 
@@ -168,8 +128,6 @@
 <!--END_SECTION:mydata-->
 
 <br>
-
-<h4 align="left">My weekly programming languages per time spent</h4>
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=veachis&color=fb760b&label=Visitors" alt="js" />
