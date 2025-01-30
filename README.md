@@ -80,11 +80,6 @@
 	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
 </picture>
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/nodejs-239120?style=for-the-badge&logo=nodejs&logoColor=white">
-	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/nodejs-239120?style=for-the-badge&logo=nodejs&logoColor=white">
-	<img src="https://img.shields.io/badge/NodeJS-239120?style=for-the-badge&logo=nodejs&logoColor=white" alt="NodeJs" />
-</picture>
 </p>
 
 </br>
