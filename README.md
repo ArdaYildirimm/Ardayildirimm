@@ -18,5 +18,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ardayildirimm"><img src="https://github-readme-stats.vercel.app/api?username=ardayildirimm&hide_border=true&show_icons=true" alt="ardayildirimm github stats"></a>
+  <a href="https://github.com/ardayildirimm"><img src="https://github-readme-stats.vercel.app/api?username=ardayildirimm&hide_border=true&show_icons=true" alt="veachis github stats"></a>
 </p>
