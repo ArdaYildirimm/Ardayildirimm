@@ -6,7 +6,7 @@
 
 <h1 align="center">Arda Yildirim</h1>
 
-<h5 align="center">Freelance Game Developer, Software</h5>
+<h5 align="center">Freelance, Game Developer, Software</h5>
 
 <p align="center">
 	<a href="https://gist.github.com/veachis">
@@ -129,7 +129,7 @@
 
 </br>
 <p align="center">
-	<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12181824518&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true)](https://github.com/kittinan/spotify-github-profile" />
+	<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=j300mqb3760n3hrrmnb2y49ju&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=8ffffd)](https://github.com/kittinan/spotify-github-profile)" />
 </p>
 
 </br>
@@ -138,34 +138,31 @@
 
 ```json
 {
-   "Will": {
-      "CurrentFocus": "Being the best version of me",
-      "HowDoISeeMyselfIn5Years": "Living my own dreams as a reality",
+   "ArdaYildirim": {
+      "CurrentFocus": "Creating engaging and immersive games",
+      "HowDoISeeMyselfIn5Years": "Running a successful indie game studio",
       "Favorites": {
-         "OperationalSystem": "Arch Linux",
-         "GUI": "XFCE",
-         "Kernel": "Zen",
-         "Interpreter": "ZSH",
-         "IDE": "Sublime text",
-         "Language": "Python",
-         "MobileOS": "Android",
-         "Games": ["Chrono Trigger","Driver: Parallel Lines","Watch Dogs"],
+         "GameEngine": "Unity",
+         "ArtStyle": "Pixel Art",
+         "ProgrammingLanguage": "C#",
+         "Games": ["Stardew Valley", "Terraria", "Hollow Knight"],
          "Music": {
-            "Genres": ["Hip Hop","Lo-fi","Jazz"],
-            "Songs": ["MF DOOM - Datura stramonium","MF DOOM - One beer","Quasimodo - Bad character"],
-            "Artists": ["MF DOOM","Rav","Vundabar"]
+            "Genres": ["Lo-fi", "Synthwave", "Indie"],
+            "Songs": ["Disasterpeace - Home", "Lena Raine - Resurrections", "Carpenter Brut - Turbo Killer"],
+            "Artists": ["Disasterpeace", "Lena Raine", "Carpenter Brut"]
          }
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A signature is called a John Hancock because he signed the Declaration of Independence. Only 2 people signed the declaration of independence on July 4. The Last person signed 2 years later.",
-      "CoolAdviceOfTheDay": "A common regret in life is wishing one hadn't worked so hard.",
-      "DadJokeOfTheDay": "Why don't skeletons ride roller coasters? They don't have the stomach for it.",
+      "FunFactOfTheDay": "The first video game ever created was 'Tennis for Two' in 1958.",
+      "CoolAdviceOfTheDay": "Great games are not just coded, they are felt.",
+      "DadJokeOfTheDay": "Why did the game developer go broke? Because he used up all his cache!",
       "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9iawqd.jpg"
+      "IsTodayMyBirthday?": "Not today!",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4t0m5.jpg"
    }
 }
+
 ```
 
 <!--END_SECTION:mydata-->
@@ -173,13 +170,6 @@
 <br>
 
 <h4 align="left">My weekly programming languages per time spent</h4>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C218%20hrs%2011%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
-
-<!--END_SECTION:waka-->
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=veachis&color=fb760b&label=Visitors" alt="js" />
