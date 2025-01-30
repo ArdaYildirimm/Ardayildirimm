@@ -9,7 +9,7 @@
 </p>
 <h3 align="center">Welcome to my GitHub profile :3</h3>
 
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Developer.</p>
+<p align="center">❤ I'm currently working on Software / Game Developer.</p>
 
 <p align="center">
   <strong><a href="https://www.instagram.com/veachisx/">Instagram</a></strong> |
