@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="[kita-ikuyo-rap.webp](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWYzNHJyZXRpM3MxMWR5cXFtb3Y5cmRzMTF4bGx5cHN0cnBmZ2xyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/28AEi3TIvtSP6/giphy.gif)" alt="Banner">
+    <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWYzNHJyZXRpM3MxMWR5cXFtb3Y5cmRzMTF4bGx5cHN0cnBmZ2xyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/28AEi3TIvtSP6/giphy.gif]" alt="Banner">
   </a>
 </p>
 
