@@ -53,7 +53,7 @@
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Unity-00000F?style=for-the-badge&logo=unity&logoColor=white">
 	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Unity-00000F?style=for-the-badge&logo=unity&logoColor=white">
-	<img src="https://img.shields.io/badge/Unity-00000F?style=for-the-badge&logo=unity%20Business%20One&logoColor=white" alt="unity"/>
+	<img src="https://img.shields.io/badge/Unity-00000F?style=for-the-badge&logo=unity%20Business%20One&logoColor=white" alt="Unity"/>
 </picture>
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -81,9 +81,9 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
 </picture>
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GitHub" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/nodejs-239120?style=for-the-badge&logo=nodejs&logoColor=white">
+	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/nodejs-239120?style=for-the-badge&logo=nodejs&logoColor=white">
+	<img src="https://img.shields.io/badge/NodeJS-239120?style=for-the-badge&logo=nodejs&logoColor=white" alt="NodeJs" />
 </picture>
 </p>
 
