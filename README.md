@@ -12,10 +12,10 @@
 	<a href="https://gist.github.com/veachis">
 		<img src="https://img.shields.io/badge/-Gists-000?style=for-the-badge&logo=Github&logoColor=white" />
 	</a>
-	<a href="https://stackoverflow.com/users/12368797/william-brochensque-junior?tab=profile">
+	<a href="https://stackoverflow.com/users/29424880/veachis?tab=profile">
 		<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 	</a>	
-	<a href="https://www.linkedin.com/in/william-brochensque-j%C3%BAnior-b9a492225/">
+	<a href="https://www.linkedin.com/in/arda-yıldırım-783798244/">
 		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>	
 </p>
